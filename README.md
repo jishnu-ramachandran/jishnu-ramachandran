@@ -1,10 +1,10 @@
 ## Hi 👋, I'm a Python Developer working in Kerala, India
 
 <p align="left">
-  <a href="https://github.com/sudiptob2?tab=followers">
+  <a href="https://github.com/jishnu-ramachandran?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/jishnu-ramachandran?color=green&logo=github">
   </a>
-  <a href="https://github.com/sudiptob2/">
+  <a href="https://github.com/jishnu-ramachandran/">
     <img src="https://komarev.com/ghpvc/?username=jishnu-ramachandran" alt="visitors" />
   </a>
 
